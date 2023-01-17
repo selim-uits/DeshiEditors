@@ -1,0 +1,36 @@
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.nav-link {
+    font-family: Lucida Console;
+    color: white;
+}
+
+.main {
+    padding: 10px 0 70px 0;
+}
+
+.main h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.signup {
+    width: 30%;
+    border-style: outset;
+}
+
+.alter {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
